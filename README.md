@@ -11,7 +11,7 @@ The interposer was tested using an Intel 486DX processor.
 ## PCB options:
 * Material : FR-4, TG130 
 * Layers : 2 
-* Thickness : 1.2 mm
+* Thickness : 1.0 mm
 
 ## Construction
 Use round female pin header (1x40 pins, step 2.54mm) to construct the socket, starting from inside to the outside.  
