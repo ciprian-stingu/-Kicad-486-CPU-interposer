@@ -15,7 +15,7 @@ The interposer was tested using an Intel 486DX processor.
 
 ## Construction
 Use round female pin header (1x40 pins, step 2.54mm) to construct the socket, starting from inside to the outside.  
-After each row from top, solder to the undeside, pins extracted from round female pin header. Because the thicness of the board is only 1 mm, you will not have any problems soldering them on underside.
+After each row from top, solder to the undeside, pins extracted from round female pin header. Because the thickness of the board is only 1 mm, you will not have any problems soldering them on underside.
 
 ## Images
 ![3D view](images/board-3d.jpg)
