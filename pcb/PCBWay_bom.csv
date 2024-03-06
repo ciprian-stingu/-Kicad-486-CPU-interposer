@@ -1,0 +1,6 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+J1,1,Data Conn,PinHeader_2x20_P2.54mm_Vertical,,tht
+J2,1,Addr Conn,PinHeader_2x20_P2.54mm_Vertical,,tht
+J3,1,Ctrl Conn,PinHeader_2x20_P2.54mm_Vertical,,tht
+J4,1,J1 VCC,PinHeader_1x02_P2.54mm_Horizontal,,tht
+U1,1,486Socket,486Socket,,tht

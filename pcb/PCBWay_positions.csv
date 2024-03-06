@@ -1,0 +1,6 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+110.9738,-72.4242,90.0,top,J1,,PinHeader_2x20_P2.54mm_Vertical,Data Conn,tht,True
+110.7148,-124.7432,180.0,top,J2,,PinHeader_2x20_P2.54mm_Vertical,Addr Conn,tht,True
+111.4768,-131.6012,90.0,top,J3,,PinHeader_2x20_P2.54mm_Vertical,Ctrl Conn,tht,True
+141.7078,-90.3962,-90.0,top,J4,,PinHeader_1x02_P2.54mm_Horizontal,J1 VCC,tht,True
+115.5408,-78.0072,0.0,top,U1,,486Socket,486Socket,tht,True
